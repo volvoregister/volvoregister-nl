@@ -1,6 +1,6 @@
-title: VOLVOregister.com
-email: info@VOLVOregister.com
-description: "We believe that every VOLVO is one-of-a-kind and deserves to be recognized by its peers. The VOLVO Register serves as a resource for VOLVO enthusiasts to obtain additional information about specific models."
+title: VOLVOregister.nl
+email: info@VOLVOregister.nl
+description: "Wij geloven dat elke VOLVO uniek is en het verdient erkend te worden door zijn gelijken. Het VOLVO Register dient als een bron voor VOLVO liefhebbers om aanvullende informatie te verkrijgen over specifieke modellen."
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /:title/
